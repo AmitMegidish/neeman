@@ -1,0 +1,30 @@
+body {
+  background-color: #000;
+  height: 100vh;
+}
+
+.header {
+  height: 9vh;
+}
+.container {
+  height: 84vh;
+  overflow-y: auto;
+}
+
+.footer {
+  height: 7vh;
+}
+
+/* .app {
+  flex: 1;
+} */
+
+.ui-button {
+  width: 90%;
+  font-size: 14px !important;
+  padding: 14px !important;
+}
+
+.logout-button {
+  font-size: 14px !important;
+}
